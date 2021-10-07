@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPsUkEe6dCHG/S5DMrh5xAXLRtqaCFNKvx6r5v7QdoPD9EgkDycofAYan/fKS/ugLUal6XMLXxdg1WGKPICFUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pingu\\source\\repos\\DailyThings\\DailyThings\\DailyThings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pingu\\.nuget\\packages\\bootstrap\\5.1.0\\bootstrap.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
